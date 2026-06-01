@@ -21,3 +21,16 @@ const myFunction=function()
 {
     console.log("hello world");
 }
+
+// Stack(primitive), Heap(Non-primitive)
+let myYoutubename="hiteshchoudharydotcom"
+let anotherName=myYoutubename
+anothername="priyanka"
+
+console.log(myYoutubename);
+console.log(anotherName);
+
+let userOne={
+    email:"priyanka@example.com",
+    name:"Priyanka"
+}
