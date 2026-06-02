@@ -73,6 +73,6 @@ console.log(Instructor)
 
 [
     {},
-    {},
+    {}
 ]
 
