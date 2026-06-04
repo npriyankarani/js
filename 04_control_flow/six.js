@@ -1,3 +1,4 @@
+//"Add array filter and forEach loop examples in six.js
 const coding=["js","ruby","java","python","cpp"]
 
 const values= coding.forEach((item)=>
